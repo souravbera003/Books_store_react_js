@@ -1,0 +1,23 @@
+.header-content{
+    min-height: 75vh;
+    background:  url("../images/library-img.jpg") center/cover no-repeat;
+    flex-direction: column;
+}
+.header-title{
+    margin: 5px;
+    padding: 10px;
+    background-color: black;
+    font-size: 4.2rem;
+     opacity: 0.8;
+     border-radius: 10px;
+    
+}
+
+.header-text{
+    background-color: black;
+    font-size:40px;
+    margin-top: -1.8rem;
+    margin-bottom: 2.8rem;
+    opacity: 0.8;
+    max-width: 770px;
+}
